@@ -1,0 +1,1 @@
+Week 2 project of the Networkwalks Cybersecurity Program: footprinting & network scanning on an authorized target using Kali Linux, Nmap, WHOIS, WhatWeb, DNSRecon & Wafw00f. Includes findings, risk ratings, recommendations & 25 evidence screenshots.
